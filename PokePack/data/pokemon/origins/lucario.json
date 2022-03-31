@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"pokemon:high_energy",
+		"pokemon:aura_sphere",
+		"pokemon:iron_fist",
+		"pokemon:small_size",
+		"pokemon:acrobatics",
+		"pokemon:double_jump",
+		"pokemon:es",
+		"pokemon:less_hp"
+	],
+	"icon": "minecraft:heart_of_the_sea",
+	"order": 50,
+	"impact": 0,
+	"name": "Lucario",
+	"description": "Rare Fighting type Pokemon, Lucario!"
+}

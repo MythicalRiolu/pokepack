@@ -1,0 +1,25 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		"type": "origins:delay",
+		"ticks": 0,
+		"action": {
+			"type": "origins:trigger_cooldown",
+			"power": "pokemon:switch_to_x"
+		}
+	},
+	"hud_render": {
+		"should_render": false,
+		"sprite_location": "origins:textures/gui/resource_bar.png",
+		"bar_index": 2
+	},
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	},
+	"cooldown": 60,
+	"hidden": true,
+	"name": "BBBBB",
+	"description": "BBBBBBBBBB"
+
+}

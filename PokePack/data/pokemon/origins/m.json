@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"pokemon:high_energy",
+		"pokemon:switch_to_x"
+	],
+	"icon": "minecraft:purple_concrete",
+	"order": 51,
+	"impact": 0,
+	"name": "Mega Mewtwo",
+	"description": "Legendary Psychic, Mewtwo, with the ability to switch between 2 different mega evolutions!"
+}

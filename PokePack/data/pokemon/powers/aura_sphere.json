@@ -1,0 +1,21 @@
+{
+	"type": "origins:fire_projectile",
+	"entity_type": "minecraft:spectral_arrow",
+	"cooldown": 60,
+	"count": 1,
+	"speed": 1.5,
+	"divergence": 1,
+	"sound": "minecraft:entity.skeleton.shoot",
+	"tag": "{pickup:0b,damage:6d}",
+	"key": { 
+	    "key": "key.origins.primary_active",
+		"continious": false
+	},
+	"hud_render": {
+		"should_render": true,
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",	
+		"bar_index": 2
+	},
+	"name": "Aura Sphere",
+	"description": "You shoot a sphere made of pure aura. It imbues the target with so much aura, that they start to glow."
+}

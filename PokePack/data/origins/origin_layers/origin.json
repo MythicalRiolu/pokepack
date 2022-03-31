@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "origins": [
+    "pokemon:lucario",
+	"pokemon:m",
+	"pokemon:x",
+	"pokemon:y"
+  ]
+}

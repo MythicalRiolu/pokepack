@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "name": "iron fist",
+        "operation": "addition",
+        "value": 2
+    },
+	"name": "Iron Fist",
+	"description": "You have a strong fist, practically as strong as iron, which increases how much damage you can do."
+}

@@ -1,0 +1,20 @@
+{
+  "type": "origins:multiple",
+  "modify_speed_attribute": {
+	"type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.07,
+    "operation": "addition"
+  }
+  },
+  "modify_jump_thingy": {
+    "type": "origins:modify_jump",
+    "modifier": {
+        "operation": "addition",
+        "value": 0.5
+	}
+  },
+  "name": "High Energy",
+	"description": "You have high energy all the time, increasing your speed and jump boost!"
+}

@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"pokemon:high_energy",
+		"pokemon:switch_to_y",
+		"pokemon:switch_x_cd",
+		"pokemon:switch_y_cd",
+		"pokemon:monke_teleport"
+	],
+	"icon": "minecraft:purple_concrete",
+	"order": 52,
+	"unchoosable": true,
+	"impact": 0,
+	"name": "X",
+	"description": "Switch between X and Y"
+}
